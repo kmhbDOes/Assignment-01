@@ -1,0 +1,177 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Work Sans';
+}
+
+/* Banner Styling */
+
+.banner {
+    background-image: url(../images/bannerart.png);
+    background-size: cover;
+    width: 100%;
+    height: 850px;
+    text-align: right;
+    color: white;
+}
+
+.bannertitle {
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 160px;
+}
+
+.bannerdescription {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: right;
+    line-height: 26px;
+    padding-right: 160px;
+    padding-top: 20px;
+    padding-left: 60%;
+}
+
+.btnprimary1 {
+    height: 60px;
+    width: 150px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #005FAC;
+    ;
+    border-radius: 7px;
+    border-style: none;
+    margin-top: 40px;
+    margin-right: 160px;
+}
+
+/* yearbook section styling */
+
+.yearbookcontainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.yearbookdp {}
+
+.yearboookdescription {
+    font-weight: 800;
+    font-size: 35px;
+    padding-top: 225px;
+    padding-right: 400px;
+    padding-bottom: 30px;
+}
+
+.yearbookpoints {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Ways to stay motivated section styling */
+.motivationcontainer {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.motivationdetails {
+
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 180px;
+    margin-left: 190px;
+}
+
+.motivationdescription {}
+
+.customsectionp {
+    margin-top: 150px;
+    margin-right: 170px;
+}
+
+.motivepoints {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 50px;
+
+}
+
+
+/* My roadmap section */
+
+.roadmaptitle {
+    text-align: center;
+    font-weight: 700;
+    font-size: 34px;
+    margin-top: 150px;
+}
+
+.roadmapcontainer {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.skilltitle {
+    text-align: center;
+}
+
+.learningskills {
+    align-items: center;
+    margin-top: 80px;
+
+}
+
+.skilldetails {
+    margin-top: 10px;
+}
+
+/* Gradient styling */
+
+.gradientsec {
+    width: 1140px;
+    height: 300px;
+    background-image: linear-gradient(to left, rgba(222, 229, 231, 0.52), rgb(10, 119, 207)),  url(../images/watch.png);
+    background-size: cover;
+    margin-top: 160px;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+.gradtitle{
+    padding-top: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.btnprimary2{
+    height: 60px;
+    width: 150px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #005FAC;
+    border-style: none;
+    border-radius: 7px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+/* Footer section */
+
+.footercontainer{
+
+
+}
+/* span{
+    color: green;
+} */
