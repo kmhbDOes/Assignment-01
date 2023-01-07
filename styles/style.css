@@ -271,5 +271,6 @@ a{
     background-color: #005FAC; 
     border-radius: 10px;
     color: white;
+    border-style: none;
 }
 
